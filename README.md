@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I am Shalini Shree
-#### I am a Master's in Information Systems student from Northeastern University, Boston, who is thrilled by a world full of data and is exploring methods as data analyst to use these data to solve real-life problems 
+#### I am a Master's in Information Systems student from Northeastern University, Boston, who is thrilled by a world full of data and is exploring methods as data analyst to use these data to solve real-life problems.
 
 
 #### 🌱 Things I am currently working on:
