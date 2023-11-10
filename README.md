@@ -36,8 +36,8 @@
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm-ide&logoColor=2C2255)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Snowflake](https://estuary.dev/static/972ca52d0addb818460efc144940d25f/8a1c1/7154a4_Snowflake_a6a3c49601.png)
-  ![Streamlit](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC3LD42rjj-Owtxsa6PwGU5Q&psig=AOvVaw19P9Xjpng28SWJ9Pa-89LZ&ust=1699664028122000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj69YacuIIDFQAAAAAdAAAAABAE)
+  ![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=snowflake-ide&logoColor=2C2255)
+  ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit-ide&logoColor=2C2255)
 
 
 
